@@ -12,7 +12,7 @@ _O objetivo deste mapeamento sistemático é identificar, classificar e analisar
 
 Toda a documentação detalhada, incluindo o protocolo de pesquisa, as questões de pesquisa, a estratégia de busca, os critérios de seleção, etc, está centralizada na Wiki deste repositório.
 
-➡️ [Acesse a Wiki para ver o Protocolo Completo]([https://github.com/JelsonMatheus/SE4AI-MLOps-Mapping/wiki])
+➡️ [Acesse a Wiki para ver o Protocolo Completo](https://github.com/JelsonMatheus/SE4AI-MLOps-Mapping/wiki)
 
 ---
 
@@ -32,6 +32,6 @@ Toda a documentação detalhada, incluindo o protocolo de pesquisa, as questões
 
 ## ✍️ Autores
 
-* **[Jelson Matheus da Silva Araújo]** ([@JelsonMatheus](https://github.com/JelsonMatheus)) - [Universidade Federal do Piauí]
+* [Jelson Matheus da Silva Araújo](https://github.com/JelsonMatheus) - Universidade Federal do Piauí
 
 ## 📝 Licença

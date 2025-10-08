@@ -34,4 +34,4 @@ Toda a documentação detalhada, incluindo o protocolo de pesquisa, as questões
 
 * [Jelson Matheus da Silva Araújo](https://github.com/JelsonMatheus) - Universidade Federal do Piauí
 
-## 📝 Licença
+

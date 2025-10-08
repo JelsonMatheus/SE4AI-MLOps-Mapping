@@ -5,7 +5,7 @@ Mapeamento Sistemático sobre Engenharia de Software para Sistemas de IA (SE4AI)
 
 ## 🎯 Objetivo
 
-_O objetivo deste mapeamento sistemático é identificar, classificar e analisar as metodologias, técnicas e ferramentas que integram as práticas de MLOps e DataOps aos princípios de Engenharia de Software no desenvolvimento de Sistemas de IA. Busca-se compreender os impactos dessa integração no ciclo de desenvolvimento dos sistemas, mapear as melhores práticas adotadas na literatura e identificar as principais lacunas de pesquisa._
+_O objetivo deste mapeamento sistemático é identificar, classificar e analisar as metodologias, técnicas e ferramentas de Engenharia de Software aplicadas ao desenvolvimento de sistemas de Inteligência Artificial, com ênfase em abordagens como MLOps e DataOps. Busca-se compreender os impactos dessa integração no ciclo de desenvolvimento, mapear as melhores práticas relatadas na literatura e identificar lacunas e oportunidades para pesquisas futuras._
 
 
 ## 📚 **Protocolo de Pesquisa Completo na Wiki**

@@ -5,7 +5,7 @@ Mapeamento Sistemático sobre Engenharia de Software para Sistemas de IA (SE4AI)
 
 ## 🎯 Objetivo
 
-_O objetivo deste mapeamento sistemático é identificar, classificar e analisar as metodologias, técnicas, práticas e ferramentas de Engenharia de Software aplicadas ao desenvolvimento de sistemas com Inteligência Artificial (IA). Busca-se compreender como os princípios da Engenharia de Software estão sendo adaptados ou redefinidos para lidar com as especificidades de sistemas baseados em IA. Além disso, pretende-se mapear as boas práticas relatadas, os desafios enfrentados e as lacunas de pesquisa existentes.
+_O objetivo deste mapeamento sistemático é identificar, classificar e analisar as metodologias, técnicas, práticas e ferramentas de Engenharia de Software aplicadas ao desenvolvimento de sistemas com Inteligência Artificial (IA). Busca-se compreender como os princípios da Engenharia de Software estão sendo adaptados ou redefinidos para lidar com as especificidades de sistemas baseados em IA. Além disso, pretende-se mapear as boas práticas relatadas, os desafios enfrentados e as lacunas de pesquisa existentes._
 
 
 ## 📚 **Protocolo de Pesquisa Completo na Wiki**

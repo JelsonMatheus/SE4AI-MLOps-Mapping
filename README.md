@@ -1,11 +1,11 @@
 # SE4AI-MLOps-Mapping
-Mapeamento Sistemático sobre Engenharia de Software para Sistemas de IA (SE4AI), MLOps e DataOps
+Mapeamento Sistemático sobre Engenharia de Software para Sistemas de IA (SE4AI).
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em_Andamento-blue.svg)
 
 ## 🎯 Objetivo
 
-_O objetivo deste mapeamento sistemático é identificar, classificar e analisar as metodologias, técnicas e ferramentas de Engenharia de Software aplicadas ao desenvolvimento de sistemas de Inteligência Artificial, com ênfase em abordagens como MLOps e DataOps. Busca-se compreender os impactos dessa integração no ciclo de desenvolvimento, mapear as melhores práticas relatadas na literatura e identificar lacunas e oportunidades para pesquisas futuras._
+_O objetivo deste mapeamento sistemático é identificar, classificar e analisar as metodologias, técnicas, práticas e ferramentas de Engenharia de Software aplicadas ao desenvolvimento de sistemas com Inteligência Artificial (IA). Busca-se compreender como os princípios da Engenharia de Software estão sendo adaptados ou redefinidos para lidar com as especificidades de sistemas baseados em IA. Além disso, pretende-se mapear as boas práticas relatadas, os desafios enfrentados e as lacunas de pesquisa existentes.
 
 
 ## 📚 **Protocolo de Pesquisa Completo na Wiki**
@@ -25,7 +25,7 @@ Toda a documentação detalhada, incluindo o protocolo de pesquisa, as questões
 - [ ] Fase 5: Análise e Síntese dos Resultados
 - [ ] Fase 6: Escrita do Artigo
 
-*Última atualização: 8 de outubro de 2025.*
+*Última atualização: 12 de outubro de 2025.*
 
 ## 📂 Estrutura do Repositório
 

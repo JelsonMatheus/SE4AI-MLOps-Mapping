@@ -25,7 +25,7 @@ Toda a documentação detalhada, incluindo o protocolo de pesquisa, as questões
 - [ ] Fase 5: Análise e Síntese dos Resultados
 - [ ] Fase 6: Escrita do Artigo
 
-*Última atualização: 12 de outubro de 2025.*
+*Última atualização: 25 de novembro de 2025.*
 
 ## 📂 Estrutura do Repositório
 

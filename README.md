@@ -19,13 +19,13 @@ Toda a documentação detalhada, incluindo o protocolo de pesquisa, as questões
 ## 📊 Status Atual
 
 - [x] Fase 1: Planejamento e Definição do Protocolo (ver Wiki)
-- [ ] Fase 2: Execução da Busca nas Bases de Dados
+- [X] Fase 2: Execução da Busca nas Bases de Dados
 - [ ] Fase 3: Seleção dos Estudos Primários
 - [ ] Fase 4: Extração dos Dados
 - [ ] Fase 5: Análise e Síntese dos Resultados
 - [ ] Fase 6: Escrita do Artigo
 
-*Última atualização: 25 de novembro de 2025.*
+*Última atualização: 29 de novembro de 2025.*
 
 ## 📂 Estrutura do Repositório
 
@@ -33,5 +33,6 @@ Toda a documentação detalhada, incluindo o protocolo de pesquisa, as questões
 ## ✍️ Autores
 
 * [Jelson Matheus da Silva Araújo](https://github.com/JelsonMatheus) - Universidade Federal do Piauí
+* [Lucas Viana dos Santos](https://github.com) - Universidade Federal do Piauí
 
 
